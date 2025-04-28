@@ -19,5 +19,21 @@ Note: Download “pfSense-CE-2.7.2-RELEASE-amd64.iso.gz” and unzip with 7zip s
 - Network adapters 2	Internal Network
 - Network adapters 3	Internal Network
 
+## Usage
+
+1. Start a New VM then provide system requirements
 <img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_1.png?raw=true">
 
+2. Then go to settings	>	Network
+3. Network adapters 2	>  Internal Network
+<img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_2.png?raw=true">
+
+4. Network adapters 2	>  Internal Network
+<img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_3.png?raw=true">
+
+5. 
+
+
+
+<img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_4.png?raw=true">
+<img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_5.png?raw=true">

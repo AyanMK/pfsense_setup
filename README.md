@@ -75,6 +75,7 @@ Note: Download “pfSense-CE-2.7.2-RELEASE-amd64.iso.gz” and unzip with 7zip s
 
 20. Then hit “https://192.168.1.1”
 
-21.    User:		admin
-      Password:	pfsense
+21. credentials
+- User:		admin
+- Password:	pfsense
 <img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_17.png?raw=true">

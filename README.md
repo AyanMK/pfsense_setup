@@ -32,43 +32,48 @@ Note: Download “pfSense-CE-2.7.2-RELEASE-amd64.iso.gz” and unzip with 7zip s
 <img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_3.png?raw=true">
 
 5. After setting up everything, save the Virtual Matchine and start the matchine
+6. Press "Accept"
 <img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_4.png?raw=true">
 
-6. Press "Accept"
+7. Press "ok"
 <img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_5.png?raw=true">
 
-7. Press "ok"
+8.Press "ok" 
 <img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_6.png?raw=true">
 
-8.Press "ok" 
+9. Press "select"
 <img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_7.png?raw=true">
 
-9. Press "select"
+10. Press "ok"
 <img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_8.png?raw=true">
 
-10. Press "ok"
+11. Now don't press "ok" yet. Press the “space” button!
 <img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_9.png?raw=true">
  
-11. Now don't press "ok" yet. Press the “space” button!
-<img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_10.png?raw=true">
 
 12. Press "ok"
-<img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_11.png?raw=true">
+<img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_10.png?raw=true">
 
 13.Press "yes" 
-<img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_12.png?raw=true">
+<img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_11.png?raw=true">
 
 14. Now it will install automatically
-<img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_13.png?raw=true">
+<img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_12.png?raw=true">
 
 15. Don’t press “Reboot” yet!
-<img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_14.png?raw=true">
+<img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_13.png?raw=true">
 
 16. Remove the IOS first. Remove disk from virtual drive
-<img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_15.png?raw=true">
+<img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_14.png?raw=true">
 
 17. Now reboot Or restart.
-<img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_16.png?raw=true">
+<img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_15.png?raw=true">
 
 18. After restart our pfSense is Ready!
+<img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_16.png?raw=true">
+
+19. Add a new VM (Ubuntu or Windows) to the network “Internal Network” 
+20.Then hit “https://192.168.1.1”
+21.    User:		admin
+      Password:	pfsense
 <img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_17.png?raw=true">

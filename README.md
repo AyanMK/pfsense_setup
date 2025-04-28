@@ -38,7 +38,7 @@ Note: Download “pfSense-CE-2.7.2-RELEASE-amd64.iso.gz” and unzip with 7zip s
 7. Press "ok"
 <img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_5.png?raw=true">
 
-8.Press "ok" 
+8.Press "ok"
 <img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_6.png?raw=true">
 
 9. Press "select"
@@ -49,12 +49,11 @@ Note: Download “pfSense-CE-2.7.2-RELEASE-amd64.iso.gz” and unzip with 7zip s
 
 11. Now don't press "ok" yet. Press the “space” button!
 <img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_9.png?raw=true">
- 
 
 12. Press "ok"
 <img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_10.png?raw=true">
 
-13.Press "yes" 
+13.Press "yes"
 <img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_11.png?raw=true">
 
 14. Now it will install automatically
@@ -73,7 +72,9 @@ Note: Download “pfSense-CE-2.7.2-RELEASE-amd64.iso.gz” and unzip with 7zip s
 <img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_16.png?raw=true">
 
 19. Add a new VM (Ubuntu or Windows) to the network “Internal Network” 
+
 20.Then hit “https://192.168.1.1”
+
 21.    User:		admin
       Password:	pfsense
 <img width="615" alt="main_pic" src="https://github.com/AyanMK/pfsense_setup/blob/main/assets/Screenshot_17.png?raw=true">

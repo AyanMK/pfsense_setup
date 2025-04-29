@@ -12,9 +12,12 @@ pfSense download link:
 Note: Download “pfSense-CE-2.7.2-RELEASE-amd64.iso.gz” and unzip with 7zip software
 
 ## System Requirements in VirtualBox
-- Processor: 2 core
-- RAM: 4GB (Minimum)
-- Disk space 20GB (Minimum)
+- Processor: 		       1 core
+- Ram (minimum): 	       1GB 	[recommended 2GB] 
+- Storage:		          20 GB
+- Network adapters 1:	"NAT"
+- Network adapters 2:	"Internal Network"
+- Network adapters 3:	"Internal Network"
 
 ## Usage
 
